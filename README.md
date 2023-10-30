@@ -13,20 +13,20 @@ Content :
 9. depth total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 10. table width of top of diamond relative to widest point (43--95)
 
-# In this project we did the following :
+## In this project we did the following :
 
-## 1.Importing & Reading.
+### 1.Importing & Reading.
 The first thing we did it is importing all libraries & models that we will use it later
 Then we read the training & testing data and show it.
 it was contains of 11 columns : [Id,	carat,	cut,	color,	clarity,	depth,	table,	price,	x,	y,	z]
 
-## 2.EDA.
+### 2.EDA.
 
 
-## 3.Preparing the data.
+### 3.Preparing the data.
 
-## 4.Feature Engineering.
+### 4.Feature Engineering.
 
-## 5.Building models & Compare them.
+### 5.Building models & Compare them.
 
-## 6.Select the best model.
+### 6.Select the best model.
