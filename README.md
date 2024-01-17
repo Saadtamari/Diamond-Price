@@ -1,5 +1,6 @@
 # Diamond-Price Prediction 💎
 One of the competitions I enjoyed
+
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for practise your learning about data analysis and visualization.
 
 Content :
