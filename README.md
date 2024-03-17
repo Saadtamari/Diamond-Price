@@ -1,5 +1,11 @@
 # Diamond-Price Prediction 💎
 One of the competitions I enjoyed
+All of us have heard about diamonds, but few of us possess the ability to distinguish between types of diamonds and determine their prices, as it is not an easy matter. There are many factors that play an important role in determining their price.
+
+In this project, I have created machine learning models to predict diamond prices. My journey began with reading and understanding the data, then analyzing it, processing it, and performing some feature engineering. After that, I built models, trained them, finally tested and compared them.
+
+Enjoy!
+......
 
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for practise your learning about data analysis and visualization.
 
